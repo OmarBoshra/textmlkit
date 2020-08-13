@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269665031519",
+    "firebase_url": "https://scantan-b9250.firebaseio.com",
+    "project_id": "scantan-b9250",
+    "storage_bucket": "scantan-b9250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269665031519:android:342fe66c2cbd8cebc1d2ea",
+        "android_client_info": {
+          "package_name": "com.conyworld.scantan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269665031519-ro1lq032p83k8af2j0855f5ob9sntrs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_K1lywlzKEeiuNWB0vn-PL4XP6KEMpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269665031519-ro1lq032p83k8af2j0855f5ob9sntrs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
